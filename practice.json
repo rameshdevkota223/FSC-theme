@@ -53,13 +53,7 @@
 					"color": "#F6F6F6",
 					"name": "Tertiary",
 					"slug": "tertiary"
-				},
-                {
-                    "color": "#000000",
-					"name": "Black",
-					"slug": "black"
-
-                }
+				}
 			]
 		},
 		"layout": {
@@ -115,29 +109,6 @@
 			"dropCap": true,
 			"fluid": true,
 			"fontFamilies": [
-				{
-					"fontFamily": "'Nunito', sans-serif",
-					"slug": "inter",
-					"name":"Body - Inter",
-					"fontFace": [{
-                        "fontFamily":  "'Nunito', sans-serif",
-						"fontWeight": "700", 
-						"fontStyle": "normal",
-						"fontStretch": "normal",
-						"src":["file:./assets/fonts/nunito/Nunito-Bold.ttf"]
-					},
-					{
-                        "fontFamily":  "'Nunito', sans-serif",
-						"fontWeight": "700", 
-						"fontStyle": "italic",
-						"fontStretch": "normal",
-						"src":["file:./assets/fonts/nunito/Nunito-Bold.ttf"]
-					}
-				]
-
-
-
-				},
 				{
 					"fontFace": [
 						{

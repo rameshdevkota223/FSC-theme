@@ -1,9 +1,10 @@
 <?php
  /**
-  * Title:Blog
-  * Slug: featured/blog
+  * Title:About
+  * Slug: featured/about
   * Categories: featured
   */
+
 ?>
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"1px","margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"center","contentSize":"95%"}} -->
